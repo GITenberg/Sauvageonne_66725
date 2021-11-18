@@ -1,0 +1,27 @@
+_repo: Sauvageonne_66725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Theuriet, André
+    aliases:
+    - Theuriet, Andre
+    - Theuriet, Claude Adhémar André
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '1340'
+    url: http://www.gutenberg.org/2009/agents/1340
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+description: ''
+gutenberg_issued: '2021-11-13'
+identifiers:
+  gutenberg: '66725'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sauvageonne
+url: http://www.gutenberg.org/ebooks/66725
