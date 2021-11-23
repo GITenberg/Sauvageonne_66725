@@ -1,5 +1,8 @@
 _repo: Sauvageonne_66725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66725-h/images/cover.jpg
 creator:
   author:
     agent_name: Theuriet, André
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Theuriet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66725#Sauvageonne
 gutenberg_issued: '2021-11-13'
 identifiers:
   gutenberg: '66725'
